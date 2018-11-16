@@ -122,5 +122,18 @@
   text-align:center;
   line-height:normal;
 }
+.sticky_1 {
+  text-align:left;
+}
 .icon {
+}
+._二级标题1 {
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._图片1 {
+  color:#000000;
 }

@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u8284_img {
+#u8275_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:1545px;
   height:981px;
 }
-#u8284 {
+#u8275 {
   border-width:0px;
   position:absolute;
   left:67px;
@@ -28,7 +28,7 @@
   width:1545px;
   height:981px;
 }
-#u8284_text {
+#u8275_text {
   border-width:0px;
   position:absolute;
   left:0px;
